@@ -1,0 +1,7 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\bin\Debug\listboxoktay.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\bin\Debug\listboxoktay.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\obj\x86\Debug\listboxoktay.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\obj\x86\Debug\listboxoktay.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\obj\x86\Debug\listboxoktay.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\obj\x86\Debug\listboxoktay.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxoktay\listboxoktay\obj\x86\Debug\listboxoktay.pdb

@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\bin\Debug\finalvize.exe
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\bin\Debug\finalvize.pdb
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\obj\x86\Debug\finalvize.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\obj\x86\Debug\finalvize.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\obj\x86\Debug\finalvize.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\obj\x86\Debug\finalvize.exe
+c:\users\lab\documents\visual studio 2010\Projects\finalvize\finalvize\obj\x86\Debug\finalvize.pdb

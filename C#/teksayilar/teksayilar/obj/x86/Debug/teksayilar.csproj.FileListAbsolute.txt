@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\bin\Debug\teksayilar.exe
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\bin\Debug\teksayilar.pdb
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\obj\x86\Debug\teksayilar.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\obj\x86\Debug\teksayilar.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\obj\x86\Debug\teksayilar.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\obj\x86\Debug\teksayilar.exe
+c:\users\lab\documents\visual studio 2010\Projects\teksayilar\teksayilar\obj\x86\Debug\teksayilar.pdb

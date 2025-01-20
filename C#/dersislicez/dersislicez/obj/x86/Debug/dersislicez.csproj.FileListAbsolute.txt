@@ -1,0 +1,8 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\bin\Debug\dersislicez.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\bin\Debug\dersislicez.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\obj\x86\Debug\dersislicez.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\obj\x86\Debug\dersislicez.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\obj\x86\Debug\dersislicez.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\obj\x86\Debug\dersislicez.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\dersislicez\dersislicez\obj\x86\Debug\dersislicez.pdb
+D:\OKUL\dersislicez\dersislicez\obj\x86\Debug\dersislicez.exe

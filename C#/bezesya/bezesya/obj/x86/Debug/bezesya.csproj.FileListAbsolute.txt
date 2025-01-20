@@ -1,0 +1,7 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\obj\x86\Debug\bezesya.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\obj\x86\Debug\bezesya.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\obj\x86\Debug\bezesya.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\bin\Debug\bezesya.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\bin\Debug\bezesya.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\obj\x86\Debug\bezesya.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\bezesya\bezesya\obj\x86\Debug\bezesya.pdb

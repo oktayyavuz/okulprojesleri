@@ -1,0 +1,8 @@
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.Form2.resources
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\bin\Debug\finalsinavinecalisma.exe
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\bin\Debug\finalsinavinecalisma.pdb
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.exe
+c:\users\lab\documents\visual studio 2010\Projects\finalsinavinecalisma\finalsinavinecalisma\obj\x86\Debug\finalsinavinecalisma.pdb

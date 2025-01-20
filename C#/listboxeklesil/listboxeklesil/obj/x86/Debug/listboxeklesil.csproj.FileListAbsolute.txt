@@ -1,0 +1,7 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\bin\Debug\listboxeklesil.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\bin\Debug\listboxeklesil.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\obj\x86\Debug\listboxeklesil.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\obj\x86\Debug\listboxeklesil.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\obj\x86\Debug\listboxeklesil.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\obj\x86\Debug\listboxeklesil.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\listboxeklesil\listboxeklesil\obj\x86\Debug\listboxeklesil.pdb

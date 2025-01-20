@@ -1,0 +1,10 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\bin\Debug\userlogin.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\bin\Debug\userlogin.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.Form2.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\userlogin\userlogin\obj\x86\Debug\userlogin.pdb
+E:\OKUL\C#\C#\userlogin\userlogin\obj\x86\Debug\userlogin.exe
+E:\OKUL\C#\C#\userlogin\userlogin\obj\x86\Debug\userlogin.pdb

@@ -1,0 +1,8 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\bin\Debug\oktayyavuz.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\bin\Debug\oktayyavuz.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\oktayyavuz\oktayyavuz\obj\x86\Debug\oktayyavuz.csprojResolveAssemblyReference.cache
