@@ -1,0 +1,108 @@
+.menu {
+    height: 50px;
+    background-color: #0d83f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    z-index: 10;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+}
+.menu ul li {
+    position: relative;
+    margin: 0 10px;
+}
+.menu ul li a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #ecf0f1;
+    padding: 10px 15px;
+    border-radius: 20px;
+    transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    position: relative;
+    overflow: hidden;
+}
+.menu ul li a::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #3498db;
+    transition: width 0.3s ease;
+}
+.menu ul li a:hover {
+    color: #3498db;
+    transform: translateY(-3px);
+}
+.menu ul li a:hover::before {
+    width: 100%;
+}
+.menu ul li .submenu {
+    position: absolute;
+    flex-direction: column;
+    text-align: center;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%) scaleY(0);
+    min-width: 200px;
+    background-color: #34495e;
+    border-radius: 10px;
+    padding: 10px 0;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform-origin: top center;
+    z-index: 5;
+}
+.menu ul li .submenu li {
+    margin: 5px 0;
+    width: 100%;
+}
+.menu ul li .submenu li a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #bdc3c7;
+    padding: 8px 15px;
+    display: block;
+    text-decoration: none;
+    border-radius: 0;
+    transition: all 0.3s ease;
+}
+.menu ul li .submenu li a:hover {
+    background-color: #2980b9;
+    color: #ffffff;
+    transform: none;
+}
+.menu ul li:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) scaleY(1);
+}
+@media screen and (max-width: 768px) {
+    .menu ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu ul li {
+        margin: 10px 0;
+    }
+    .menu ul li .submenu {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: scaleY(1);
+        transform-origin: top;
+    }
+}
