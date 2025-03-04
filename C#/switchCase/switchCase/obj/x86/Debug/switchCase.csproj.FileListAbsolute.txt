@@ -1,0 +1,8 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\bin\Debug\switchCase.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\bin\Debug\switchCase.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\switchCase\switchCase\obj\x86\Debug\switchCase.pdb

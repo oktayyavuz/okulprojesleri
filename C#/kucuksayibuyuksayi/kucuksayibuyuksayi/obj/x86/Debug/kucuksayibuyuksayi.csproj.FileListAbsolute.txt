@@ -1,0 +1,7 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\bin\Debug\kucuksayibuyuksayi.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\bin\Debug\kucuksayibuyuksayi.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\obj\x86\Debug\kucuksayibuyuksayi.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\obj\x86\Debug\kucuksayibuyuksayi.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\obj\x86\Debug\kucuksayibuyuksayi.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\obj\x86\Debug\kucuksayibuyuksayi.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\kucuksayibuyuksayi\kucuksayibuyuksayi\obj\x86\Debug\kucuksayibuyuksayi.pdb

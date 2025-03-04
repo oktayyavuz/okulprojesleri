@@ -1,0 +1,10 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.Form2.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.Form3.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.Form4.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\bin\Debug\restoranProject.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\bin\Debug\restoranProject.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\restoranProject\restoranProject\obj\x86\Debug\restoranProject.pdb

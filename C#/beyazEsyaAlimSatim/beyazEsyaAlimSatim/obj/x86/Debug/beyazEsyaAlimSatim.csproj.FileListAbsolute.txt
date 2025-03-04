@@ -1,0 +1,8 @@
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\bin\Debug\beyazEsyaAlimSatim.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\bin\Debug\beyazEsyaAlimSatim.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.Form1.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.exe
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.pdb
+C:\Users\Lab\Documents\Visual Studio 2010\Projects\beyazEsyaAlimSatim\beyazEsyaAlimSatim\obj\x86\Debug\beyazEsyaAlimSatim.csprojResolveAssemblyReference.cache
